@@ -21,6 +21,6 @@ If using the Customizable XP drops plugin and displaying icons, an icon override
 
 ## Additional visuals
 
-This resource pack works best when paired with my [loot filter pack](https://github.com/GCWild/wobbly-filter/tree/main), as the visuals for both were created in tandem.
+This resource pack works best when paired with my [loot filter pack](https://github.com/GCWild/vga-filter/tree/main), as the visuals for both were created in tandem.
 
 ![2025-05-30_16-57-37](https://github.com/user-attachments/assets/7807fd5a-0c32-441d-afe6-23e7b4c7ca34)
