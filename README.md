@@ -1,6 +1,6 @@
 # VGAscape (by gonekittywild)
 
-![icon](https://github.com/user-attachments/assets/9229ebde-5031-4bf5-a424-d10e7b07607e)
+![icon](https://github.com/user-attachments/assets/37b5284d-8570-4910-8044-ba158616dfed)
 
 A light, earth-tone resource pack for OSRS! Dress up OSRS in a retro look inspired by old PC games.
 This pack replaces most of the UI barring some deeper-nested icons seen in options and account management menus.
