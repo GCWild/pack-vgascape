@@ -9,6 +9,8 @@ For best results, enable integer scaling in the Stretched Mode plugin to avoid u
 Magic icons, prayer icons and cross-sprites can be toggled on or off in the sidebar.
 If using the Customizable XP drops plugin and displaying icons, an icon override of 25 with font size 16 works best.
 
+Now in [dark mode](https://github.com/GCWild/pack-vgascape-dark), too!
+
 ## Screenshots
 
 <img width="2286" height="1368" alt="2025-11-07_13-23-18" src="https://github.com/user-attachments/assets/eb9d0065-5cd1-435a-b4c2-876c829516e7" />
